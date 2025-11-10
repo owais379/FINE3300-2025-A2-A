@@ -216,7 +216,7 @@ def run_part_a():
     
     # create and save graph
     print("Creating loan balance decline graph...")
-    mortgage.plot_loan_balance_decline(schedules, 'loan_balance_decline.png')
+    mortgage.plot_loan_balance_decli5000ne(schedules, 'loan_balance_decline.png')
     
     print("\nPart A completed successfully!")
 
