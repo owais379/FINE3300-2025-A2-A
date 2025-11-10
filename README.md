@@ -10,19 +10,19 @@ This Python project extends the mortgage payment calculator I previously constru
 - Exports all schedules to an Excel file with multiple worksheets
 - Creates a matplotlib graph comparing loan balance decline across all payment options
 
-## Libraries ued:
+## Libraries used
 Pandas, Matplotlib, Numpy, and Openpyxl
 
 ## Part B: Consumer Price Index (CPI) Analysis
 
 This component analyzes CPI data across Canadian provinces to examine inflation trends and cost-of-living differences. The program processes 11 CPI data files and minimum wage data to provide economic insights.
 
-### Features:
+### Features
 - Combines CPI data from all provinces into a unified dataset
 - Calculates monthly inflation rates for key categories (Food, Shelter, All-items excluding food and energy)
 - Computes equivalent salaries across provinces based on cost-of-living differences
 - Analyzes nominal vs real minimum wages
 - Identifies regions with highest services inflation
 
-### Libraries used:
+### Libraries used
 Pandas and OS
